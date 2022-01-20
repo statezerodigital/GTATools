@@ -1,0 +1,5 @@
+G:\Documents\State Zero\GTA Tools\GTATools\GTATools\bin\Debug\GTATools.dll
+G:\Documents\State Zero\GTA Tools\GTATools\GTATools\bin\Debug\GTATools.pdb
+G:\Documents\State Zero\GTA Tools\GTATools\GTATools\obj\Debug\GTATools.csproj.CoreCompileInputs.cache
+G:\Documents\State Zero\GTA Tools\GTATools\GTATools\obj\Debug\GTATools.dll
+G:\Documents\State Zero\GTA Tools\GTATools\GTATools\obj\Debug\GTATools.pdb
